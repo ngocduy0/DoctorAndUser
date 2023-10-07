@@ -1,0 +1,4 @@
+controller\Main.class
+controller\Validate.class
+model\Doctor.class
+controller\Manager.class
